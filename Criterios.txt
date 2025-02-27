@@ -1,0 +1,14 @@
+En grupos Identificarán un reto de tu organización, y compartirán:
+
+Problema
+Tipo de analítica	
+TIpo de problema de IA	
+Disponibilidad de datos	
+Impacto negocio	
+Pregunta SMART
+Pueden basarse en el ejercicio en clase:
+
+Criterios
+Describe claramente el problema para la organización incluyendo el indicador que podría mejorarse
+Justifica porqué puede ser resuelto con ciencia de datos/IA, incluyendo los tipos de datos, y el tipo de problema que puede resolverse. 
+La pregunta propuesta cumple con los parámetros para ser SMART ( Específica, medible, accionable, con temporalidad)
